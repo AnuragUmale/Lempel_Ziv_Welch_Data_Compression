@@ -16,8 +16,6 @@ Lempel-Ziv Compression is a data compression algorithm that works by finding rep
 10. trie.h
 11. word.c
 12. word.h
-13. DESIGN.pdf
-14. WRITEUP.pdf
 
 ## Build
 
